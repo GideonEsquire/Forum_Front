@@ -2,6 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
   </div>
+  <!-- this is just getting my head around vuetify  -->
   <v-card text="..."></v-card>
 </template>
 
