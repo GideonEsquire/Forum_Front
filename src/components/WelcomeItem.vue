@@ -9,6 +9,12 @@
       </h3>
       <slot></slot>
     </div>
+    <v-btn>
+      Button
+    </v-btn>
+    <v-btn color="primary">
+      Button
+    </v-btn>
   </div>
 </template>
 
