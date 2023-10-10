@@ -1,15 +1,16 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    <h1>Home</h1>
+    <v-btn>aaa</v-btn>
+    <v-btn color="error">
+      <v-icon start icon="mdi-view-dashboard">
+      </v-icon>
+      aaa
+    </v-btn>
 </template>
 
+
 <style scoped>
-main {
-  margin: 3rem;
-}
 </style>
