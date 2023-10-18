@@ -11,5 +11,5 @@
   </v-app-bar>
 </template>
 
-<style>
+<style scoped>
 </style>
